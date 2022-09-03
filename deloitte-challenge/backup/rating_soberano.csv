@@ -1,0 +1,166 @@
+|pais_bbg|ticker|region|sp|fitch|mdy
+0|Abu Dhabi|1022337Z UH Equity|Africa/Middle East|AA|AA|Aa2
+1|Albania|1001Z AL Equity|Eastern Europe|B+||B1
+2|Algeria|3700Z US Equity|Africa/Middle East|||
+3|Andorra|1095Z SM Equity|Western Europe|BBB||
+4|Angola|32272Z AX Equity|Africa/Middle East|CCC+|CCC|Caa1
+5|Argentina|1310Z AR Equity|South/Central America|CCC+|WD|Ca
+6|Armenia|32672Z US Equity|Eastern Europe||B+|Ba3
+7|Aruba|185378Z NT Equity|South/Central America|BBB|BB|
+8|Australia|1525Z AU Equity|Asia/Pacific Rim|AAAu|AAA|Aaa
+9|Austria|1480Z AV Equity|Western Europe|AA+|AA+|Aa1
+10|Azerbaijan|1088Z AZ Equity|Eastern Europe|BB+|BB+|Ba2
+11|Bahamas|7196Z US Equity|North America|BB-||Ba2
+12|Bahrain|3343879Z BI Equity|Africa/Middle East|B+|B+|B2u
+13|Bailiwick Of Guernsey|3399922Z GU Equity|Western Europe|#N/A Invalid Security|#N/A Invalid Security|#N/A Invalid Security
+14|Bangladesh|43886Z BD Equity|Asia/Pacific Rim|BB-||Ba3
+15|Barbados|3343887Z BA Equity|North America|B-||Caa1
+16|Belarus|1001Z RB Equity|Eastern Europe|B||B3u
+17|Belgium|111136Z BB Equity|Western Europe|AAu|AA-|Aa3
+18|Belize|1001Z ZB Equity|South/Central America|CC||Caa3
+19|Benin|32682Z US Equity|Africa/Middle East|B+||B1
+20|Bermuda|BGV65 BH Equity|North America|A+|WD|A2
+21|Bolivia|1003Z VB Equity|South/Central America|B+|B|B2
+22|Bosnia & Herzegovina|1004Z BP Equity|Eastern Europe|B||B3
+23|Botswana|1000Z BG Equity|Africa/Middle East|BBB+||A2
+24|Brazil|1323Z BZ Equity|South/Central America|BB-|BB-|Ba2
+25|Brunei|32271Z US Equity|Asia/Pacific Rim|||
+26|Bulgaria|129225Z BU Equity|Eastern Europe|BBB|BBB|Baa1
+27|Burkina Faso|32687Z US Equity|Africa/Middle East|B||
+28|Burundi|32688Z US Equity|Africa/Middle East|||
+29|Cambodia|32578Z US Equity|Asia/Pacific Rim|NR||B2
+30|Cameroon|32675Z US Equity|Africa/Middle East|B-|B|B2u
+31|Canada|80710Z CN Equity|North America|AAA|AA+|Aaa
+32|Cape Verde|32689Z US Equity|Africa/Middle East|B-||
+33|Cayman Islands|1010Z KY Equity|North America|||Aa3
+34|Chile|45793Z CI Equity|South/Central America|A|A-|A1
+35|China|PRCH CH Equity|Asia/Pacific Rim|A+|A+|A1
+36|Colombia|1153Z CB Equity|South/Central America|BBB-|BBB-|Baa2
+37|Cook Islands|9347Z US Equity|Asia/Pacific Rim|B+||
+38|Costa Rica|172385Z CR Equity|South/Central America|B|B|B2
+39|Croatia|40425Z CZ Equity|Eastern Europe|BBB-|BBB-|Ba1
+40|Cuba|3689Z US Equity|North America|||Caa2
+41|Curacao|0096033Z NT Equity|South/Central America|BBB-||
+42|Cyprus|3343903Z CY Equity|Eastern Europe|BBB-|BBB-|Ba2
+43|Czech Republic|1040Z CP Equity|Eastern Europe|AA-|AA-|Aa3
+44|Dem.Rep. Congo|45441Z US Equity|Africa/Middle East|CCC+||Caa1
+45|Denmark|1271Z DC Equity|Western Europe|AAAu|AAA|Aaau
+46|Dominican Republic|7867Z US Equity|North America|BB-|BB-|Ba3
+47|Dubai|3470170Z UH Equity|Africa/Middle East|||
+48|Ecuador|172377Z ED Equity|South/Central America|B-|B-|Caa3
+49|Egypt|1083Z EY Equity|Africa/Middle East|B|B+|B2
+50|El Salvador|0365698Z EL Equity|South/Central America|B-|B-|B3
+51|Estonia|1000Z ET Equity|Eastern Europe|AA-|AA-|A1
+52|Fiji|1000Z FS Equity|Asia/Pacific Rim|BB-||Ba3
+53|Finland|1306Z FH Equity|Western Europe|AA+|AA+|Aa1
+54|France|223727Z FP Equity|Western Europe|AAu|AA|Aa2u
+55|Gabon|1001Z ZG Equity|Africa/Middle East|NR|CCC|Caa1
+56|Gambia|32603Z US Equity|Africa/Middle East||NR|
+57|Georgia|3352121Z GG Equity|Eastern Europe|BB|BB|Ba2
+58|Germany|3413Z GR Equity|Western Europe|AAAu|AAA|Aaau
+59|Ghana|1084Z GN Equity|Africa/Middle East|B-|B|B3
+60|Gibraltar|1635Z LN Equity|Western Europe|||
+61|Greece|1004Z GA Equity|Western Europe|BB-|BB|Ba3
+62|Grenada|82485Z US Equity|North America|NR||
+63|Guatemala|25822Z US Equity|South/Central America|BB-|BB-|Ba1
+64|Honduras|3926Z US Equity|South/Central America|BB-||B1
+65|Hong Kong|3343935Z HK Equity|Asia/Pacific Rim|AA+|AA-|Aa3
+66|Hungary|1182Z HB Equity|Eastern Europe|BBB|BBB|Baa3
+67|Iceland|1171Z IR Equity|Western Europe|A|A|A2
+68|India|1504Z IN Equity|Asia/Pacific Rim|BBB-u|BBB-|Baa3
+69|Indonesia|1133Z IJ Equity|Asia/Pacific Rim|BBB|BBB|Baa2
+70|Iran|1002Z IE Equity|Africa/Middle East|||
+71|Iraq|15315Z US Equity|Africa/Middle East|B-||Caa1
+72|Ireland|1266Z ID Equity|Western Europe|AA-|A+|A2
+73|Isle Of Man|1636Z LN Equity|Western Europe|NR||Aa3
+74|Israel|3343943Z IT Equity|Africa/Middle East|AA-|A+|A1
+75|Italy|2103Z IM Equity|Western Europe|BBBu|BBB-|Baa3u
+76|Jamaica|1084Z JA Equity|South/Central America|B+|B+|B2
+77|Japan|JAPZ JP Equity|Asia/Pacific Rim|A+u|A|A1
+78|Jersey|1633Z LN Equity|Western Europe|AA-||
+79|Jordan|1001Z JR Equity|Africa/Middle East|B+||B1
+80|Kazakhstan|56820Z KZ Equity|Asia/Pacific Rim|BBB-|BBB|Baa3
+81|Kenya|1001Z KN Equity|Africa/Middle East|B|B+|B2u
+82|Kuwait|3343975Z KK Equity|Africa/Middle East|AA-|AA|A1
+83|Latvia|3344606Z LR Equity|Eastern Europe|A+|A-|A3
+84|Lebanon|1007Z LB Equity|Africa/Middle East|SD|WD|C
+85|Lesotho|32597Z US Equity|Africa/Middle East|||
+86|Libya|3008655Z LY Equity|Africa/Middle East|NR|WD|
+87|Liechtenstein|7098Z US Equity|Western Europe|AAA||
+88|Lithuania|1092Z LH Equity|Eastern Europe|A+|A|A2
+89|Luxembourg|1110Z LX Equity|Western Europe|AAA|AAA|Aaa
+90|Macau|9136Z US Equity|Asia/Pacific Rim|||Aa3
+91|Macedonia|0702260D MS Equity|Eastern Europe|BB-|BB+|
+92|Malawi|1001Z MW Equity|Africa/Middle East|||
+93|Malaysia|1124Z MK Equity|Asia/Pacific Rim|A-|BBB+|A3
+94|Mali|32684Z US Equity|Africa/Middle East|NR|WD|Caa1
+95|Malta|5753Z US Equity|Western Europe|A-|A+|A2
+96|Mauritania|32714Z US Equity|Africa/Middle East|||
+97|Mauritius|150679Z MP Equity|Africa/Middle East|||Baa2
+98|Mexico|1426Z MM Equity|North America|BBB|BBB-|Baa1
+99|Moldova|7179Z US Equity|Eastern Europe||NR|B3
+100|Monaco|9375Z US Equity|Western Europe|||
+101|Mongolia|17211Z MO Equity|Asia/Pacific Rim|B|B|B3
+102|Montenegro|525038Z SG Equity|Eastern Europe|B||B1
+103|Montserrat|539359Z LN Equity|South/Central America|BBB-||
+104|Morocco|1096Z MC Equity|Africa/Middle East|BBB-|BB+|Ba1
+105|Mozambique|1001Z MZ Equity|Africa/Middle East|CCC+||Caa2u
+106|Namibia|1082Z NW Equity|Africa/Middle East||BB|Ba3
+107|Nepal|1001Z NK Equity|Asia/Pacific Rim|||
+108|Neth. Antilles|556126Z NA Equity|North America|||
+109|Netherlands|1533Z NA Equity|Western Europe|AAAu|AAA|Aaau
+110|New Zealand|46443Z NZ Equity|Asia/Pacific Rim|AA+|AA|Aaa
+111|Nicaragua|4487Z US Equity|South/Central America|B-||B3
+112|Nigeria|1119Z NL Equity|Africa/Middle East|B-|B|B2
+113|Norway|1233Z NO Equity|Western Europe|AAA|AAA|Aaa
+114|Oman|3080511Z OM Equity|Africa/Middle East|B+|BB-|Ba3
+115|Pakistan|1106Z PA Equity|Asia/Pacific Rim|B-|B-|B3
+116|Panama|3344634Z PP Equity|South/Central America|BBB|BBB-|Baa2
+117|Papua New Guinea|1412Z PB Equity|Asia/Pacific Rim|B-|NR|B2
+118|Paraguay|4481Z US Equity|South/Central America|BB|BB+|Ba1
+119|Peru|1131Z PE Equity|South/Central America|BBB+|BBB+|A3
+120|Philippines|279379Z PM Equity|Asia/Pacific Rim|BBB+|BBB|Baa2
+121|Poland|1084Z PW Equity|Eastern Europe|A-|A-|A2
+122|Portugal|1174Z PL Equity|Western Europe|BBBu|BBB|Baa3
+123|Qatar|3344650Z QD Equity|Africa/Middle East|AA-|AA-|Aa3
+124|Romania|1089Z RO Equity|Eastern Europe|BBB-|BBB-|Baa3
+125|Russia|4458Z RU Equity|Eastern Europe|BBB-|BBB|Baa3
+126|Rwanda|32674Z RW Equity|Africa/Middle East|B+|B+|B2
+127|San Marino|1095Z IM Equity|Western Europe|||
+128|Saudi Arabia|3344642Z AB Equity|Africa/Middle East|A-u|A|A1
+129|Senegal|26376Z US Equity|Africa/Middle East|B+||Ba3
+130|Serbia|830031Z SG Equity|Eastern Europe|BB+|BB+|Ba2
+131|Seychelles|32671Z US Equity|Africa/Middle East|NR|B|
+132|Sierra Leone|32598Z  US Equity|Africa/Middle East|||
+133|Singapore|1545Z SP Equity|Asia/Pacific Rim|AAAu|AAA|Aaa
+134|Slovakia|1023Z SK Equity|Eastern Europe|A+|A|A2
+135|Slovenia|1091Z SV Equity|Eastern Europe|AA-|A|A3
+136|South Africa|50184Z SJ Equity|Africa/Middle East|BB-|BB-|Ba2
+137|South Korea|ROKZ KS Equity|Asia/Pacific Rim|AA|AA-|Aa2
+138|Spain|1841Z SM Equity|Western Europe|Au|A-|Baa1
+139|Sri Lanka|1005Z SL Equity|Asia/Pacific Rim|CCC+|CCC|Caa1
+140|St Kitts & Nevis|204283Z EK Equity|North America|||
+141|St Vincent & the Grenadines|204275Z EK Equity|North America|||B3
+142|Suriname|17024Z US Equity|South/Central America|SD|D|Caa3
+143|Swaziland|1001Z SD Equity|Africa/Middle East|||B3
+144|Sweden|1179Z SS Equity|Western Europe|AAAu|AAA|Aaa
+145|Switzerland|344758Z SW Equity|Western Europe|AAAu|AAA|Aaau
+146|Taiwan|116657Z TT Equity|Asia/Pacific Rim|AA-u||Aa3
+147|Tanzania|150747Z TZ Equity|Africa/Middle East|||B2u
+148|Thailand|1179Z TB Equity|Asia/Pacific Rim|BBB+|BBB+|Baa1
+149|Togo|32683Z US Equity|Africa/Middle East|B||B3
+150|Trinidad and Tobago|3239646Z TP Equity|North America|BBB-||Ba1
+151|Tunisia|1102Z TU Equity|Africa/Middle East|NR|B|B3
+152|Turkey|114144Z TI Equity|Eastern Europe|B+u|BB-|B2
+153|Turkmenistan|9220Z US Equity|Asia/Pacific Rim||NR|WR
+154|Uganda|1004Z UG Equity|Africa/Middle East|B||B2u
+155|Ukraine|1089Z UZ Equity|Eastern Europe|B|B|B3
+156|United Arab Emirates|3344698Z UH Equity|Africa/Middle East|||Aa2
+157|United Kingdom|6152Z LN Equity|Western Europe|AAu|AA-|Aa3u
+158|United States|3352Z US Equity|North America|AA+u|AAA|Aaa
+159|Uruguay|172369Z UY Equity|South/Central America|BBB|BBB-|Baa2
+160|Venezuela|1069Z VC Equity|South/Central America|SD|WD|WR
+161|Vietnam|231715Z VN Equity|Asia/Pacific Rim|BB|BB|Ba3
+162|Zambia|1083Z ZL Equity|Africa/Middle East|SD|C|Ca
+163|Zimbabwe|1004Z ZH Equity|Africa/Middle East|||
+164|Cote d'Ivoire|49815Z IA Equity|Africa/Middle East||B+|Ba3

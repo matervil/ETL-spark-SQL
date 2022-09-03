@@ -1,0 +1,235 @@
+|pais|cod_pais|pais_bbg
+0|abu dhabi|-1|abu dhabi
+1|aruba|-1|aruba
+2|bailia de guernsey|-1|bailiwick of guernsey
+3|islas cook|-1|cook islands
+4|curazao|-1|curacao
+5|dubai|-1|dubai
+6|gambia|-1|gambia
+7|gibraltar|-1|gibraltar
+8|granada|-1|grenada
+9|isla de man|-1|isle of man
+10|serbia|-1|serbia
+11|montenegro|-1|montenegro
+12|montserrat|-1|montserrat
+13|antillas neerlandesas|-1|neth. antilles
+14|no informado|-1|uninformed
+15|no informado|0|uninformed
+16|senegal|101|senegal
+17|guinea bissau|103|guinea-bissau
+18|guinea|104|guinea
+19|sierra leone|105|sierra leone
+20|liberia|106|liberia
+21|costa de marfil|107|cote d'ivoire
+22|ghana|108|ghana
+23|togo|109|togo
+24|nigeria|111|nigeria
+25|sudafrica|112|south africa
+26|botswana|113|botswana
+27|lesotho|114|lesotho
+28|malawi|115|malawi
+29|zimbabwe|116|zimbabwe
+30|zambia|117|zambia
+31|comoras|118|comoros
+32|mauricio|119|mauritius
+33|madagascar|120|madagascar
+34|mozambique|121|mozambique
+35|swazilandia|122|swaziland
+36|sudan|123|sudan
+37|egipto|124|egypt
+38|libia|125|libya
+39|tunez|126|tunisia
+40|argelia|127|algeria
+41|marruecos|128|morocco
+42|cabo verde|129|cape verde
+43|chad|130|chad
+44|niger|131|niger
+45|alto volta|132|high volta
+46|mali|133|mali
+47|mauritania|134|mauritania
+48|tanzania|135|tanzania
+49|uganda|136|uganda
+50|kenya|137|kenya
+51|somalia|138|somalia
+52|etiopia|139|ethiopia
+53|angola|140|angola
+54|burundi|141|burundi
+55|ruanda|142|rwanda
+56|zaire|143|zaire
+57|republica del congo|144|dem.rep. congo
+58|gabon|145|gabon
+59|santo tome y principe|146|sao tome and principe
+60|guinea ecuatorial|147|equatorial guinea
+61|republica centro africana|148|central african republic
+62|camerun|149|cameroon
+63|benin|150|benin
+64|territorio britanico en africa|151|british territory in africa
+65|territorio espaqol en africa|152|spanish territory in africa
+66|territorio frances en africa|153|french territory in africa
+67|bophuthatswana|154|bophuthatswana
+68|djibouti|155|djibouti
+69|seychelles|156|seychelles
+70|venda|158|band
+71|namibia|159|namibia
+72|burkina faso|161|burkina faso
+73|ciskel|162|ciskel
+74|eritrea|163|eritrea
+75|islas marshall|164|marshall islands
+76|saharavi|165|saharavi
+77|transkel|166|transkel
+78|suiza|200|switzerland
+79|venezuela|201|venezuela
+80|colombia|202|colombia
+81|trinidad y tobago|203|trinidad and tobago
+82|barbados|204|barbados
+83|jamaica|205|jamaica
+84|republica dominicana|206|dominican republic
+85|bahamas|207|bahamas
+86|haiti|208|haiti
+87|cuba|209|cuba
+88|panama|210|panama
+89|costa rica|211|costa rica
+90|nicaragua|212|nicaragua
+91|el salvador|213|el salvador
+92|honduras|214|honduras
+93|guatemala|215|guatemala
+94|mexico|216|mexico
+95|guyana|217|guyana
+96|ecuador|218|ecuador
+97|peru|219|peru
+98|brasil|220|brazil
+99|bolivia|221|bolivia
+100|paraguay|222|paraguay
+101|uruguay|223|uruguay
+102|argentina|224|argentina
+103|estados unidos|225|united states
+104|estados unidos|225|united states of america
+105|canada|226|canada
+106|territorio britanico en america|227|british territory in america
+107|territorio frances en america|228|french territory in america
+108|territorio holandes en america|229|dutch territory in america
+109|territorio de dinamarca|230|denmark territory
+110|dominica|231|dominica
+111|santa lucia|233|st lucia
+112|san vicente y las granadinas|234|st vincent & the grenadines
+113|suriname|235|suriname
+114|belice|236|belize
+115|antigua y barbuda|240|old and bearded
+116|san kitts y nevis|241|st kitts & nevis
+117|jordania|301|jordan
+118|arabia saudita|302|saudi arabia
+119|kuwait|303|kuwait
+120|oman|304|oman
+121|chipre|305|cyprus
+122|israel|306|israel
+123|iraq|307|iraq
+124|afganistan|308|afghanistan
+125|iran|309|iran
+126|republica arabe siria|310|syrian arab republic
+127|libano|311|lebanon
+128|qatar|312|qatar
+129|bahrein|313|bahrain
+130|sri lanka|314|sri lanka
+131|camboya|315|cambodia
+132|laos|316|laos
+133|india|317|india
+134|butan|318|butan
+135|tailandia|319|thailand
+136|nepal|320|nepal
+137|bangladesh|321|bangladesh
+138|yemen del norte|322|north yemen
+139|yemen del sur|323|south yemen
+140|pakistan|324|pakistan
+141|vietnam|325|vietnam
+142|myanmar|326|myanmar
+143|islas maldivas|327|maldives islands
+144|indonesia|328|indonesia
+145|malasia|329|malaysia
+146|taiwan|330|taiwan
+147|japon|331|japan
+148|singapur|332|singapore
+149|corea del sur|333|south korea
+150|corea del sur|333|korea, republic of
+151|corea del norte|334|north korea
+152|filipinas|335|philippines
+153|china|336|china
+154|mongolia|337|mongolia
+155|hong kong|340|hong kong
+156|emiratos arabes unidos|341|united arab emirates
+157|territorio britanico en asia|342|british territory in asia
+158|territorio portugues en asia|343|portuguese territory in asia
+159|brunei|344|brunei
+160|macao|345|macau
+161|islas cayman|386|cayman islands
+162|fiji|401|fiji
+163|nauru|402|nauru
+164|islas tonga|403|tonga islands
+165|samoa|404|samoa
+166|nueva zelanda|405|new zealand
+167|australia|406|australia
+168|territorio britanico en australia|407|british territory in australia
+169|territorio frances en australia|408|french territory in australia
+170|territorio norteamericano en australia|409|north american territory in australia
+171|papua nueva guinea|412|papua new guinea
+172|vanuatu|415|vanuatu
+173|kiribati|416|kiribati
+174|micronesia|417|micronesia
+175|islas salomon|418|solomon islands
+176|tuvalu|419|tuvalu
+177|belau|420|belau
+178|portugal|501|portugal
+179|italia|504|italy
+180|francia|505|france
+181|irlanda|506|ireland
+182|dinamarca|507|denmark
+183|suiza|508|switzerland
+184|austria|509|austria
+185|reino unido|510|united kingdom
+186|suecia|511|sweden
+187|finlandia|512|finland
+188|noruega|513|norway
+189|belgica|514|belgium
+190|paises bajos|515|netherlands
+191|islandia|516|iceland
+192|espana|517|spain
+193|albania|518|albania
+194|rumania|519|romania
+195|grcia|520|greece
+196|turquia|522|turkey
+197|malta|523|malta
+198|santa sede|524|holy see
+199|andorra|525|andorra
+200|bulgaria|527|bulgaria
+201|polonia|528|poland
+202|hungria|530|hungary
+203|luxemburgo|532|luxembourg
+204|liechtenstein|534|liechtenstein
+205|monaco|535|monaco
+206|san marino|536|san marino
+207|armenia|540|armenia
+208|azerbaijan|541|azerbaijan
+209|belarus|542|belarus
+210|bosnia y herzegovina|543|bosnia & herzegovina
+211|republica checa|544|czech republic
+212|republica eslovaca|545|slovakia
+213|croacia|547|croatia
+214|eslovenia|548|slovenia
+215|estonia|549|estonia
+216|georgia|550|georgia
+217|kazajstan|551|kazakhstan
+218|kirgistan|552|kirgistan
+219|letonia|553|latvia
+220|lituania|554|lithuania
+221|macedonia|555|macedonia
+222|moldova|556|moldova
+223|tadjikistan|557|tadjikistan
+224|turkmenistan|558|turkmenistan
+225|ucrania|559|ukraine
+226|uzbekistan|560|uzbekistan
+227|rusia|562|russia
+228|alemania|563|germany
+229|yugoslavia|564|yugoslavia
+230|jersey|593|jersey
+231|no informado|995|uninformed
+232|chile|997|chile
+233|bermuda|999|bermuda
